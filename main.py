@@ -11,7 +11,9 @@ st.set_page_config(
     page_title="Car Price Prediction",
     page_icon="🚗",
     layout="wide"
-)
+) 
+
+st.image("https://kjpp.rhr.co.id/wp-content/uploads/2020/12/LOGO_KJPP_RHR_1_resize.png", width=500 )
 
 # Title and description
 st.title("Car Price Prediction")
